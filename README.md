@@ -4,7 +4,7 @@
 
 ### Frontend Developer & Graphic Designer · Indonesia 🇮🇩
 
-*Crafting modern web experiences and visual designs —*  
+*Crafting modern web experiences and visual designs*  
 *passionate about clean code, beautiful interfaces, and meaningful design.*
 
 <br/>
