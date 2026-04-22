@@ -26,10 +26,10 @@
 ## 🧠 About Me
 
 - 🏢 Currently working & creating from **Jakarta, Indonesia**
-- ⚛️ Diving deep into **React** & **Next.js** — building fast, modern web apps
-- 🎨 Also passionate about **Graphic Design** — Figma, Adobe Photoshop & more
+- ⚛️ Diving deep into **React** & **Next.js** building fast, modern web apps
+- 🎨 Also passionate about **Graphic Design** Figma, Adobe Photoshop & more
 - ♻️ Open to **collaboration** on frontend & design projects
-- 💬 Feel free to **ask me anything** — always happy to connect!
+- 💬 Feel free to **ask me anything** always happy to connect!
 - 😄 Pronouns: **he/him**
 
 ---
