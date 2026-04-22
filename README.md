@@ -1,21 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af5&height=200&section=header&text=Iza%20Mahendra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%26%20Graphic%20Designer&descAlignY=58&descColor=c4b8ff&animation=fadeIn" width="100%" />
+# 👋 Iza Mahendra
 
-<br/>
+### Frontend Developer & Graphic Designer · Indonesia 🇮🇩
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF5&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;Graphic+Designer+%F0%9F%8E%A8;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 👋 Hi, I'm Iza — based in Indonesia 🇮🇩
-
-I craft modern web experiences and visual designs.  
-Passionate about clean code, beautiful interfaces, and meaningful design.
+*Crafting modern web experiences and visual designs —*  
+*passionate about clean code, beautiful interfaces, and meaningful design.*
 
 <br/>
 
@@ -35,17 +25,12 @@ Passionate about clean code, beautiful interfaces, and meaningful design.
 
 ## 🧠 About Me
 
-```javascript
-const iza = {
-  location   : "Indonesia 🇮🇩",
-  role       : ["Frontend Developer", "Graphic Designer"],
-  stack      : ["React", "Next.js", "JavaScript", "HTML", "CSS"],
-  design     : ["Figma", "Adobe Photoshop"],
-  pronouns   : "he/him",
-  openTo     : "Collaboration on frontend & design projects",
-  contact    : "izamahendra868@gmail.com",
-};
-```
+- 🏢 Currently working & creating from **Jakarta, Indonesia**
+- ⚛️ Diving deep into **React** & **Next.js** — building fast, modern web apps
+- 🎨 Also passionate about **Graphic Design** — Figma, Adobe Photoshop & more
+- ♻️ Open to **collaboration** on frontend & design projects
+- 💬 Feel free to **ask me anything** — always happy to connect!
+- 😄 Pronouns: **he/him**
 
 ---
 
@@ -89,6 +74,8 @@ const iza = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af5&height=120&section=footer&fontColor=ffffff" width="100%" />
+---
+
+*Made with ❤️ by Iza Mahendra · Jakarta, Indonesia 🇮🇩*
 
 </div>
