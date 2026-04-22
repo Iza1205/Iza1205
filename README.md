@@ -15,7 +15,7 @@
 
 ---
 
-#### 🤝 Let's get in touch!
+#### Let's get in touch!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Iza%20Mahendra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iza-mahendra/)
 [![Instagram Badge](https://img.shields.io/badge/-@izamhn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/izamhn)
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Statistics
+### Statistics
 
 <span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iza1205&layout=compact&langs_count=6" /></span>
 <span><a href="https://github.com/iza1205?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=iza1205&show_icons=true&count_private=true&hide=contribs" /></a></span>
